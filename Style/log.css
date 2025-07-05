@@ -1,3 +1,80 @@
+
+
 div{
-  background-color: tomato;
+  width: 440px;
+  height: 430px;
+  margin-left: 20px;
+  border: 5px solid rgb(149, 130, 130);
+  padding-left: 20px;
+  border-radius: 20px;
+  background-color: #909497 ;
+  display:inline-block;
+
+}
+img{
+  width: 300px;
+  height: 200px;
+
+}
+h2{
+  text-align: center;
+  color: #e74c3c ;
+  font-size: 30px;
+}
+button{
+  margin: 10px 150px;
+  background-color: aqua;
+  color:white;
+  border-radius: 5px;
+  
+  
+}
+h1{
+  text-align: center;
+  color: #196f3d;
+}
+.Apu{
+  width: 440px;
+  height: 430px;
+  margin-left: 20px;
+  border: 5px solid rgb(149, 130, 130);
+  padding-left: 20px;
+  border-radius: 20px;
+  background-color:#d4ac0d  ;
+  display:inline-block;
+}
+.ajoy{
+  width: 440px;
+  height: 430px;
+  margin-left: 20px;
+  border: 5px solid rgb(149, 130, 130);
+  padding-left: 20px;
+  border-radius: 20px;
+  background-color: #17a589   ;
+  display:inline-block;
+}
+.raj{
+  margin: 10px 150px;
+  background-color: #e74c3c;
+  color:white;
+  border-radius: 5px;
+}
+.mon{
+  margin: 10px 150px;
+  background-color: #f1c40f ;
+  color:white;
+  border-radius: 5px;
+}
+p{
+  color: white;
+}
+.d{
+  text-align: center;
+  color:#884ea0  ;
+  font-size: 30px;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
